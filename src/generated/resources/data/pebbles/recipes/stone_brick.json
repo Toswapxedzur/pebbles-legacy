@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pebbles:cobble"
+    },
+    {
+      "item": "pebbles:clay_bit"
+    },
+    {
+      "item": "pebbles:clay_bit"
+    },
+    {
+      "item": "pebbles:fiber"
+    }
+  ],
+  "result": {
+    "item": "pebbles:stone_brick"
+  }
+}

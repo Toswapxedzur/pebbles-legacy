@@ -1,0 +1,55 @@
+Problem:
+Create mod addon
+Item Capability(vanilla: bundle shulker, other mods)
+Mixin enum (create:nuclear factory blaze burner)
+Custom fluid texture
+
+
+
+
+
+
+undone:
+
+Silk
+Produced by SilkWorm
+Quartz Ore: found in the overworld
+Porcelain: Crafted by clay quartz dust and bone meal
+
+Ash
+Dust
+
+Bone - knockback animal loot table
+
+Playerkick
+
+Fluid Container Material:
+Procelain+sturdy_material:allproof
+Fluid Container Type:
+Canned
+Bucket
+Cauldron
+
+rubber
+
+herb using flower
+
+Catapule
+
+Wax: Water Sugar HoneyComb (Apple Juice if add create mod)
+Cooked to get better WaterProof
+
+FireSource: Campfire
+Furnace Overhaul: no interface, need flint n steel to lit up, can not be retrieved
+
+
+Torch Unlit
+
+Mortar GrindStone recipe:
+Dye need grindstone
+
+basic mechanical arm: rubber拳套 durability, only attack or use
+
+ExistingGameChange:
+knife perform actions of shear
+Honey Distilled to Sugar

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    " # ",
+    " # ",
+    " IS"
+  ],
+  "result": {
+    "item": "pebbles:flint_sword"
+  },
+  "show_notification": true
+}

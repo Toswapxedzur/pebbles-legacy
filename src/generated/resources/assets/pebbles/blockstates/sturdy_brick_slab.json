@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pebbles:block/sturdy_brick_slab"
+    },
+    "type=double": {
+      "model": "pebbles:block/sturdy_bricks"
+    },
+    "type=top": {
+      "model": "pebbles:block/sturdy_brick_slab_top"
+    }
+  }
+}

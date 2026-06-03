@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "pebbles:block/grout_fluid_block"
+    }
+  }
+}

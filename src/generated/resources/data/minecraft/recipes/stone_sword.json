@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "pebbles:stone_brick"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    " # ",
+    " # ",
+    " IS"
+  ],
+  "result": {
+    "item": "minecraft:stone_sword"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_17",
+  "package": "net.minecarft.pebbles.mixin",
+  "refmap": "pebbles.mixin-refmap.json",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "pebbles.mixins.refmap.json",
+  "mixins": [
+    "MixinBlockProperties",
+    "ItemMixin",
+    "PlayerMixin",
+    "BlocksMixin",
+    "DiggerItemMixin",
+    "EnchantmentsMixin.DamageEnchantmentMixin",
+    "EnchantmentsMixin.LoyaltyEnchantmentMixin",
+    "EnchantmentsMixin.FireAspectEnchantmentMixin",
+    "EnchantmentsMixin.KnockBackEnchantmentMixin"
+  ]
+}

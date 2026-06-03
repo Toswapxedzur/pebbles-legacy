@@ -1,0 +1,63 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "pebbles:block/wooden_bottle",
+		"particle": "minecraft:block/oak_planks"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"up": {"uv": [0, 8, 4, 12], "texture": "#0"},
+				"down": {"uv": [0, 8, 4, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 8, 7],
+			"to": [9, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 7]},
+			"faces": {
+				"north": {"uv": [3, 8, 4, 10.5], "texture": "#0"},
+				"east": {"uv": [2, 8, 3, 10.5], "texture": "#0"},
+				"south": {"uv": [1, 8, 2, 10.5], "texture": "#0"},
+				"west": {"uv": [0, 8, 1, 10.5], "texture": "#0"},
+				"up": {"uv": [0, 11, 1, 12], "texture": "#0"},
+				"down": {"uv": [3, 11, 4, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 13, 6],
+			"to": [10, 16, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 13, 6]},
+			"faces": {
+				"north": {"uv": [4, 1.5, 6, 3], "texture": "#0"},
+				"east": {"uv": [4, 0, 6, 1.5], "texture": "#0"},
+				"south": {"uv": [4, 0, 6, 1.5], "texture": "#0"},
+				"west": {"uv": [4, 1.5, 6, 3], "texture": "#0"},
+				"up": {"uv": [6, 1, 8, 3], "texture": "#0"},
+				"down": {"uv": [6, 1, 8, 3], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "cork",
+			"origin": [8, 15, 8],
+			"color": 0,
+			"children": [2]
+		}
+	]
+}

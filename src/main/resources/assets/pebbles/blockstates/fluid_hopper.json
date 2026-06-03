@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "pebbles:block/fluid_hopper_side"
+    },
+    "facing=south": {
+      "model": "pebbles:block/fluid_hopper_side",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "pebbles:block/fluid_hopper_side",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "pebbles:block/fluid_hopper_side",
+      "y": 270
+    },
+    "facing=down": {
+      "model": "pebbles:block/fluid_hopper"
+    }
+  }
+}

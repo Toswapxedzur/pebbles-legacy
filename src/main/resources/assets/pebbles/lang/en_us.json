@@ -1,0 +1,62 @@
+{
+  "item.pebbles.sturdy_rock": "Sturdy rock",
+  "item.pebbles.unfired_sturdy_rock": "Unfired sturdy rock",
+  "item.pebbles.clay_bit": "Tiny Bit of Clay",
+  "item.pebbles.cobble": "Cobble",
+  "item.pebbles.fiber": "Fiber",
+  "item.pebbles.fiber_string": "Fiber String",
+  "item.pebbles.leather_string": "Leather String",
+  "item.pebbles.stone_brick": "Stone Brick",
+  "item.pebbles.urn": "Urn",
+  "item.pebbles.water_urn": "Water Filled Urn",
+  "item.pebbles.honey_urn": "Honey Filled Urn",
+
+  "item.pebbles.sturdy_sword": "Sturdy Sword",
+
+  "item.pebbles.sturdy_pickaxe": "Sturdy Pickaxe",
+  "item.pebbles.flint_pickaxe.tooltip.one": "String Material:",
+  "item.pebbles.flint_pickaxe.tooltip.one.zero": "String",
+  "item.pebbles.flint_pickaxe.tooltip.one.one": "Fiber String",
+  "item.pebbles.flint_pickaxe.tooltip.one.two": "Leather String",
+  "item.pebbles.flint_pickaxe.tooltip.one.none": "Nothing Because The Code is Written Like This",
+
+  "item.pebbles.sturdy_axe": "Sturdy Axe",
+  "item.pebbles.sturdy_shovel": "Sturdy Shovel",
+  "item.pebbles.sturdy_hoe": "Sturdy Hoe",
+
+  "item.pebbles.flint_sword": "Flint Sword",
+  "item.pebbles.flint_pickaxe": "Flint Pickaxe",
+  "item.pebbles.flint_axe": "Flint Axe",
+  "item.pebbles.flint_shovel": "Flint Shovel",
+  "item.pebbles.flint_hoe": "Flint Hoe",
+
+  "item.pebbles.sturdy_helmet": "Sturdy Helmet",
+  "item.pebbles.sturdy_chestplate": "Sturdy Chestplate",
+  "item.pebbles.sturdy_leggings": "Sturdy Leggings",
+  "item.pebbles.sturdy_boots": "Sturdy Boots",
+
+  "item.pebbles.flint_knife": "Flint Knife",
+  "item.pebbles.sturdy_knife": "Sturdy Knife",
+  "item.pebbles.stone_knife": "Stone Knife",
+  "item.pebbles.iron_knife": "Iron Knife",
+  "item.pebbles.diamond_knife": "Diamond Knife",
+  "item.pebbles.netherite_knife": "Netherite Knife",
+
+  "item.pebbles.flint_hatchet": "Flint Hatchet",
+  "item.pebbles.sturdy_hatchet": "Sturdy Hatchet",
+  "item.pebbles.stone_hatchet": "Stone Hatchet",
+  "item.pebbles.iron_hatchet": "Iron Hatchet",
+  "item.pebbles.diamond_hatchet": "Diamond Hatchet",
+  "item.pebbles.netherite_hatchet": "Netherite Hatchet",
+
+  "block.pebbles.sturdy_rock_block": "Block of Sturdy Rock",
+  "block.pebbles.clay_brick_shaped": "Brick Shaped Clay",
+
+  "block.pebbles.sturdy_bricks": "Sturdy Bricks",
+  "block.pebbles.sturdy_brick_stairs": "Sturdy Brick Stairs",
+  "block.pebbles.sturdy_brick_slab": "Sturdy Brick Slab",
+  "block.pebbles.sturdy_brick_wall": "Sturdy Brick Wall",
+
+  "enchantment.pebbles.venomous_blade": "Venomous Blade",
+  "enchantment.pebbles.stone_break": "Stone Break"
+}

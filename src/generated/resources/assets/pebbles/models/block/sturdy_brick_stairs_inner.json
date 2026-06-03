@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "pebbles:block/sturdy_bricks",
+    "side": "pebbles:block/sturdy_bricks",
+    "top": "pebbles:block/sturdy_bricks"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pebbles:cobble"
+    },
+    {
+      "item": "pebbles:cobble"
+    },
+    {
+      "item": "pebbles:cobble"
+    },
+    {
+      "item": "pebbles:cobble"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone"
+  }
+}

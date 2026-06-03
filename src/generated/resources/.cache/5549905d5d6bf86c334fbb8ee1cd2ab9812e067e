@@ -1,0 +1,14 @@
+// 1.20.1	2025-07-05T23:10:31.999971	Tags for minecraft:item mod id pebbles
+7e8740b122946218231a778979494243b3418df8 data/forge/tags/items/armors/boots.json
+80563c32be259861bb38b439f84143b5e757815c data/forge/tags/items/armors/chestplates.json
+84fd65e29cf3bd85e9322511d1b59c2c05e3b6f1 data/forge/tags/items/armors/helmets.json
+b991b61c98fcb5dafd4e9186b896012f2db8134f data/forge/tags/items/armors/leggings.json
+b3fbf6be9f10ceb130709ad65ca320789c9c28e1 data/forge/tags/items/string.json
+889d576bf1d819a05ab0c87279274b73faadd890 data/minecraft/tags/items/advance_knives.json
+0fc27dd99641f4dc72cbcf6bb245d1bc6d4e6808 data/minecraft/tags/items/axes.json
+e992fbe99cb4d26b6d70c5b5f8ab2540a2d26692 data/minecraft/tags/items/hatchets.json
+0ce7501fbaafca0d54f8f38f8c2bad51d3898983 data/minecraft/tags/items/hoes.json
+871b74bbb537945fb6f8ffe4126c301509869aad data/minecraft/tags/items/knives.json
+e85de4488fa9857f18f18d9562ddf71afe343fb9 data/minecraft/tags/items/pickaxes.json
+698f8ebcb07dccc0c4afa3f0b951aeb8501f6018 data/minecraft/tags/items/shovels.json
+5c2015258fb19bbe50effc4fd314274c9a682464 data/minecraft/tags/items/swords.json

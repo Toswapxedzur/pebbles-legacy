@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "smelt",
+  "ingredient": {
+    "item": "pebbles:unfired_sturdy_rock"
+  },
+  "result": "pebbles:sturdy_rock"
+}

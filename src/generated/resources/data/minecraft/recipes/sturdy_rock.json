@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "pebbles:sturdy_rock_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "pebbles:sturdy_rock"
+  }
+}

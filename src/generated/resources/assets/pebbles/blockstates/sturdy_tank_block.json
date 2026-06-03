@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "pebbles:block/tank_model"
+    }
+  }
+}

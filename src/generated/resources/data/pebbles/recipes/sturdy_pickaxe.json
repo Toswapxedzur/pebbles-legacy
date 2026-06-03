@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "pebbles:sturdy_rock"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    "###",
+    " IS",
+    " I "
+  ],
+  "result": {
+    "item": "pebbles:sturdy_pickaxe"
+  },
+  "show_notification": true
+}

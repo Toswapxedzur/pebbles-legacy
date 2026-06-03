@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "pebbles:sturdy_rock"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " # ",
+    " I "
+  ],
+  "result": {
+    "item": "pebbles:sturdy_knife"
+  },
+  "show_notification": true
+}

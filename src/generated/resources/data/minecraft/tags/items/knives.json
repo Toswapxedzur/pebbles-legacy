@@ -1,0 +1,10 @@
+{
+  "values": [
+    "pebbles:flint_knife",
+    "pebbles:sturdy_knife",
+    "pebbles:stone_knife",
+    "pebbles:iron_knife",
+    "pebbles:diamond_knife",
+    "pebbles:netherite_knife"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "tag": "minecraft:knives"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pebbles:leather_string"
+  }
+}

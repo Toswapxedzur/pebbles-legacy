@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "pebbles:sturdy_bricks"
+  },
+  "result": "pebbles:sturdy_brick_stairs"
+}
