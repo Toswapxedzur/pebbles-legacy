@@ -23,3 +23,24 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+# build & run artifacts
+build/
+.gradle/
+run/
+run-data/
+runs/
+logs/
+.idea/
+*.iml
+.DS_Store
+
+# build & run artifacts
+build/
+.gradle/
+run/
+run-data/
+runs/
+logs/
+.idea/
+*.iml
+.DS_Store
